@@ -25,14 +25,6 @@ int main(){
     head->next->next = new node(30);
     printlist(head);
 
-
-
-
-
-
-
-   
-
     return 0;
 }
 
