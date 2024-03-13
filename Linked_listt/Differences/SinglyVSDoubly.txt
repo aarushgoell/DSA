@@ -1,0 +1,11 @@
+Advantages:
+
+CAn be traversed in both directions
+A given delete a node in O(1) time with given reference/pointer to it
+Insert/delete before a given node
+Insert/delete from both  ends in by maintaining tail
+
+Disadvantages:
+
+Extra space for prev
+Code become more complex
